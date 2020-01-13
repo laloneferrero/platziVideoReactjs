@@ -1,9 +1,9 @@
 # platziVideoReactjs
 Código completo de curso ReactJS de platzi
 
-#para construir
+# para construir
 npm i
 
-#para correr
+# para correr
 
 npm run start
