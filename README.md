@@ -7,3 +7,7 @@ npm i
 # para correr
 
 npm run start
+
+#Fake API
+
+para correr la fake api es necesario correr json-server initialState.json
